@@ -1,5 +1,4 @@
 language: c
-os : linux
 jobs:
   include:
     - dist: xenial
